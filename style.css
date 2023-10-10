@@ -1,0 +1,16 @@
+/* HTML e CSS 2.uso de classe e de id */
+/* @media only screen and (max-device-width: 900px) {
+     .container { width:100%; } 
+     {
+*/
+/* Utilizando a classe .itemlista, coloca características gerais pra todos os itens */
+.itemlista{
+    font-size: 15 px;
+    color: blue;
+}
+
+/* com o id# aumenta a fonte base do item e altera a cor*/
+#vermelho{
+    font-size: 200%;
+    color: red
+}
